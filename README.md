@@ -8,5 +8,9 @@ Only uses engine damage!!!! does not mess up engine if its a body hit.
 
 Repairkits uses them and it will tell u to go to front of vehicle to repair... have fun
 
-Any Issues Or Help
-https://discord.gg/gmAcpDU
+
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
